@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow directories so we can re-include files inside
+!*/
+
+# Keep this file
+!.gitignore
+
+# Allow docs and their contents
+!docs/
+!docs/**
+
+# Allow specific file patterns
+!*.bdf.*
+!metadata.*
+!*.md

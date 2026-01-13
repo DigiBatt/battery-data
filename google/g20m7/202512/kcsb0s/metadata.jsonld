@@ -1,0 +1,127 @@
+{
+  "@context": [
+    "https://w3id.org/emmo/domain/battery/context",
+    {
+      "schema": "https://schema.org/",
+      "csvw": "http://www.w3.org/ns/csvw#",
+      "bdf": "https://w3id.org/bdf/",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    }
+  ],
+  "@type": [
+    "schema:Product",
+    "Battery"
+  ],
+  "@id": "https://w3id.org/digibatt/battery-data/google/g20m7/202512/kcsb0s",
+  "schema:identifier": [
+    "kcsb0s",
+    "ICP6/65/75"
+  ],
+  "schema:name": "google-g20m7-202512-kcsb0s",
+  "schema:model": "G20M7",
+  "schema:manufacturer": {
+    "@type": "schema:Organization",
+    "schema:name": "Google"
+  },
+  "schema:additionalProperty": [
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "IEC code",
+      "schema:propertyID": "bdf:iec_code",
+      "schema:value": "ICP6/65/75"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Form factor",
+      "schema:propertyID": "bdf:form_factor",
+      "schema:value": "prismatic"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Nominal voltage",
+      "schema:propertyID": "bdf:nominal_voltage_v",
+      "schema:value": 3.9,
+      "schema:unitText": "V"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Rated capacity",
+      "schema:propertyID": "bdf:rated_capacity_ah",
+      "schema:value": 4.835,
+      "schema:unitText": "Ah"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Rated energy",
+      "schema:propertyID": "bdf:rated_energy_wh",
+      "schema:value": 18.8,
+      "schema:unitText": "Wh"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Mass",
+      "schema:propertyID": "bdf:mass_g",
+      "schema:value": 63,
+      "schema:unitText": "g"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Volume",
+      "schema:propertyID": "bdf:volume_l",
+      "schema:value": 0.02925,
+      "schema:unitText": "L"
+    }
+  ],
+  "hasProperty": [
+    {
+      "@type": "NominalVoltage",
+      "rdfs:label": "nominal voltage",
+      "hasNumberValue": 3.9,
+      "hasMeasurementUnit": "emmo:Volt"
+    },
+    {
+      "@type": "RatedCapacity",
+      "rdfs:label": "rated capacity",
+      "hasNumberValue": 4.835,
+      "hasMeasurementUnit": "emmo:AmpereHour"
+    },
+    {
+      "@type": "RatedEnergy",
+      "rdfs:label": "rated energy",
+      "hasNumberValue": 18.8,
+      "hasMeasurementUnit": "emmo:WattHour"
+    },
+    {
+      "@type": "Mass",
+      "rdfs:label": "mass",
+      "hasNumberValue": 63,
+      "hasMeasurementUnit": "emmo:Gram"
+    },
+    {
+      "@type": "Volume",
+      "rdfs:label": "volume",
+      "hasNumberValue": 0.02925,
+      "hasMeasurementUnit": "emmo:Litre"
+    }
+  ],
+  "hasPositiveElectrode": {
+    "@type": "Electrode",
+    "rdfs:label": "positive electrode",
+    "hasActiveMaterial": [
+      {
+        "@type": "Cobalt",
+        "rdfs:label": "Cobalt"
+      }
+    ]
+  },
+  "hasNegativeElectrode": {
+    "@type": "Electrode",
+    "rdfs:label": "negative electrode",
+    "hasActiveMaterial": [
+      {
+        "@type": "Graphite",
+        "rdfs:label": "Graphite"
+      }
+    ]
+  }
+}
