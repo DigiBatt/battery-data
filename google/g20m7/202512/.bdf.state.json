@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "items": {
+    "SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.nda": {
+      "mtime": 1768203218.0,
+      "size": 20832926,
+      "output": "data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet"
+    },
+    "SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.nda": {
+      "mtime": 1768312600.0,
+      "size": 5009716,
+      "output": "data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet"
+    },
+    "SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.nda": {
+      "mtime": 1768203298.0,
+      "size": 14475439,
+      "output": "data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet"
+    },
+    "SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.nda": {
+      "mtime": 1767970064.0,
+      "size": 11989436,
+      "output": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet"
+    },
+    "SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.nda": {
+      "mtime": 1768203268.0,
+      "size": 140571672,
+      "output": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet"
+    }
+  },
+  "updated_at": "2026-01-13T22:11:20.021196+00:00"
+}

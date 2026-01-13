@@ -1,0 +1,11 @@
+{
+  "title": "Raw Data from Lithium-Ion Cells in Automotive Applications: Tesla 4680 Cylindrical Cell Teardown and Characterization",
+  "description": "A collection of raw data from the publication by Ank et al (doi: 10.1149/1945-7111/ad14d0) curated for integration into the BDF registry.",
+  "keywords": ["li-ion", "inr46800", "4680", "tesla", "tum", "ank2023", "battery", "INR46/800", "dcir", "rate", "thermal"],
+  "license": "CC-BY-4.0",
+  "url": "https://github.com/digibatt/battery-data/tesla/inr46800/2022",
+  "url_base": "https://github.com/digibatt/battery-data/tesla/inr46800/2022",
+  "version": "1.0.0",
+  "doi": "10.1149/1945-7111/ad14d0",
+  "citation": ["Manuel Ank et al 2023 J. Electrochem. Soc. 170 120536"]
+}

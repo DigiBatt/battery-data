@@ -1,0 +1,30 @@
+{
+  "spec": {
+    "manufacturer": "Tesla",
+    "model": "INR46800",
+    "batch": "2022",
+    "namespace": "https://w3id.org/digibatt/battery-data/",
+    "name_template": "{manufacturer}-{model}-{batch}-{id}",
+    "iri_template": "{namespace}{manufacturer}/{model}/{batch}/{id}",
+    "iec_code": "INR46/800",
+    "chemistry": "li-ion",
+    "form_factor": "cylindrical",
+    "nominal_voltage_v": 3.70,
+    "rated_capacity_ah": 22.078,
+    "rated_energy_wh": 82.75,
+    "mass_g": 355.9,
+    "volume_l": 0.036,
+    "pe_materials": ["nmc811"],
+    "ne_materials": ["graphite"]
+  },
+  "ids": [
+    "536828",
+    "186828",
+    "550828",
+    "444828",
+    "549828",
+    "131828",
+    "601828",
+    "083828"
+  ]
+}

@@ -12,16 +12,16 @@
     "schema:Product",
     "Battery"
   ],
-  "@id": "https://w3id.org/digibatt/battery-data/google/g20m7/202512/gru6mv",
+  "@id": "https://w3id.org/digibatt/battery-data/tesla/inr46800/2022/601828",
   "schema:identifier": [
-    "gru6mv",
-    "ICP6/65/75"
+    "601828",
+    "INR46/800"
   ],
-  "schema:name": "google-g20m7-202512-gru6mv",
-  "schema:model": "G20M7",
+  "schema:name": "tesla-inr46800-2022-601828",
+  "schema:model": "INR46800",
   "schema:manufacturer": {
     "@type": "schema:Organization",
-    "schema:name": "Google"
+    "schema:name": "Tesla"
   },
   "schema:category": "li-ion",
   "schema:additionalProperty": [
@@ -29,7 +29,7 @@
       "@type": "schema:PropertyValue",
       "schema:name": "IEC code",
       "schema:propertyID": "bdf:iec_code",
-      "schema:value": "ICP6/65/75"
+      "schema:value": "INR46/800"
     },
     {
       "@type": "schema:PropertyValue",
@@ -41,41 +41,41 @@
       "@type": "schema:PropertyValue",
       "schema:name": "Form factor",
       "schema:propertyID": "bdf:form_factor",
-      "schema:value": "prismatic"
+      "schema:value": "cylindrical"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Nominal voltage",
       "schema:propertyID": "bdf:nominal_voltage_v",
-      "schema:value": 3.9,
+      "schema:value": 3.7,
       "schema:unitText": "V"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Rated capacity",
       "schema:propertyID": "bdf:rated_capacity_ah",
-      "schema:value": 4.835,
+      "schema:value": 22.078,
       "schema:unitText": "Ah"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Rated energy",
       "schema:propertyID": "bdf:rated_energy_wh",
-      "schema:value": 18.8,
+      "schema:value": 82.75,
       "schema:unitText": "Wh"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Mass",
       "schema:propertyID": "bdf:mass_g",
-      "schema:value": 63,
+      "schema:value": 355.9,
       "schema:unitText": "g"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Volume",
       "schema:propertyID": "bdf:volume_l",
-      "schema:value": 0.02925,
+      "schema:value": 0.036,
       "schema:unitText": "L"
     }
   ],
@@ -83,31 +83,31 @@
     {
       "@type": "NominalVoltage",
       "rdfs:label": "nominal voltage",
-      "hasNumberValue": 3.9,
+      "hasNumberValue": 3.7,
       "hasMeasurementUnit": "emmo:Volt"
     },
     {
       "@type": "RatedCapacity",
       "rdfs:label": "rated capacity",
-      "hasNumberValue": 4.835,
+      "hasNumberValue": 22.078,
       "hasMeasurementUnit": "emmo:AmpereHour"
     },
     {
       "@type": "RatedEnergy",
       "rdfs:label": "rated energy",
-      "hasNumberValue": 18.8,
+      "hasNumberValue": 82.75,
       "hasMeasurementUnit": "emmo:WattHour"
     },
     {
       "@type": "Mass",
       "rdfs:label": "mass",
-      "hasNumberValue": 63,
+      "hasNumberValue": 355.9,
       "hasMeasurementUnit": "emmo:Gram"
     },
     {
       "@type": "Volume",
       "rdfs:label": "volume",
-      "hasNumberValue": 0.02925,
+      "hasNumberValue": 0.036,
       "hasMeasurementUnit": "emmo:Litre"
     }
   ],
@@ -116,8 +116,8 @@
     "rdfs:label": "positive electrode",
     "hasActiveMaterial": [
       {
-        "@type": "Cobalt",
-        "rdfs:label": "Cobalt"
+        "@type": "LithiumNickelManganeseCobaltOxide811",
+        "rdfs:label": "LithiumNickelManganeseCobaltOxide811"
       }
     ]
   },
@@ -133,7 +133,7 @@
   },
   "schema:subjectOf": [
     {
-      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet#dataset"
+      "@id": "https://github.com/digibatt/battery-data/tesla/inr46800/2022/data/TUM__tesla-inr46800-2022-601828__2022__Capacity__25degC.bdf.parquet#dataset"
     }
   ]
 }

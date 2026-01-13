@@ -1,0 +1,27 @@
+{
+  "spec": {
+    "manufacturer": "Melasta",
+    "model": "SLPBA842126HV",
+    "batch": "202410",
+    "namespace": "https://w3id.org/digibatt/battery-data/",
+    "name_template": "{manufacturer}-{model}-{batch}-{id}",
+    "iri_template": "{namespace}{manufacturer}/{model}/{batch}/{id}",
+    "iec_code": "ICP42/127/10",
+    "chemistry": "li-ion",
+    "form_factor": "pouch",
+    "nominal_voltage_v": 3.70,
+    "rated_capacity_ah": 6.55,
+    "rated_energy_wh": 24.235,
+    "mass_g": 126,
+    "volume_l": 0.0544,
+    "pe_materials": ["lco"],
+    "ne_materials": ["graphite"]
+  },
+  "ids": [
+    "tfscsy",
+    "p0jqc2",
+    "aampje",
+    "qv8zn1",
+    "hqmg7h"
+  ]
+}

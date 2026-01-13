@@ -52,7 +52,7 @@
   ],
   "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
   "schema:inLanguage": "en",
-  "schema:url": "https://github.com/digibatt/battery-data/g20m7",
+  "schema:url": "https://github.com/digibatt/battery-data/google/g20m7/202512",
   "schema:version": "0.1.0",
   "schema:variableMeasured": [
     {
@@ -125,8 +125,9 @@
       ],
       "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
       "schema:inLanguage": "en",
-      "schema:identifier": "data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet#dataset",
       "schema:version": "0.1.0",
+      "schema:identifier": "data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
       "schema:measurementTechnique": "C30",
       "schema:variableMeasured": [
         {
@@ -151,9 +152,9 @@
       "schema:distribution": [
         {
           "@type": "schema:DataDownload",
-          "@id": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
+          "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
           "schema:name": "SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
-          "schema:contentUrl": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
+          "schema:contentUrl": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet",
           "schema:encodingFormat": "application/x-parquet"
         }
       ],
@@ -211,8 +212,9 @@
       ],
       "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
       "schema:inLanguage": "en",
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet#dataset",
+      "schema:version": "0.1.0",
       "schema:identifier": "data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
-      "schema:version": "0.1.0",
       "schema:measurementTechnique": "HPPC",
       "schema:variableMeasured": [
         {
@@ -237,9 +239,9 @@
       "schema:distribution": [
         {
           "@type": "schema:DataDownload",
-          "@id": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
+          "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
           "schema:name": "SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
-          "schema:contentUrl": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
+          "schema:contentUrl": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet",
           "schema:encodingFormat": "application/x-parquet"
         }
       ],
@@ -297,8 +299,9 @@
       ],
       "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
       "schema:inLanguage": "en",
-      "schema:identifier": "data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet#dataset",
       "schema:version": "0.1.0",
+      "schema:identifier": "data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
       "schema:measurementTechnique": "HPPC",
       "schema:variableMeasured": [
         {
@@ -323,9 +326,9 @@
       "schema:distribution": [
         {
           "@type": "schema:DataDownload",
-          "@id": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
+          "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
           "schema:name": "SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
-          "schema:contentUrl": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
+          "schema:contentUrl": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet",
           "schema:encodingFormat": "application/x-parquet"
         }
       ],
@@ -383,8 +386,9 @@
       ],
       "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
       "schema:inLanguage": "en",
-      "schema:identifier": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet#dataset",
       "schema:version": "0.1.0",
+      "schema:identifier": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
       "schema:measurementTechnique": "C5",
       "schema:variableMeasured": [
         {
@@ -409,9 +413,9 @@
       "schema:distribution": [
         {
           "@type": "schema:DataDownload",
-          "@id": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
+          "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
           "schema:name": "SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
-          "schema:contentUrl": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
+          "schema:contentUrl": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__C5__25degC.bdf.parquet",
           "schema:encodingFormat": "application/x-parquet"
         }
       ],
@@ -469,8 +473,9 @@
       ],
       "schema:license": "https://spdx.org/licenses/CC-BY-4.0",
       "schema:inLanguage": "en",
-      "schema:identifier": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet#dataset",
       "schema:version": "0.1.0",
+      "schema:identifier": "data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
       "schema:measurementTechnique": "ICI",
       "schema:variableMeasured": [
         {
@@ -495,9 +500,9 @@
       "schema:distribution": [
         {
           "@type": "schema:DataDownload",
-          "@id": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
+          "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
           "schema:name": "SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
-          "schema:contentUrl": "https://github.com/digibatt/battery-data/g20m7/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
+          "schema:contentUrl": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-kcsb0s__20260109__ICI__25degC.bdf.parquet",
           "schema:encodingFormat": "application/x-parquet"
         }
       ],

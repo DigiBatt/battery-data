@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "items": {
+    "TUM__tesla-inr46800-186828__2022__HPPC__25degC.txt": {
+      "mtime": 1766217094.2723734,
+      "size": 202693814,
+      "output": "data/TUM__tesla-inr46800-186828__2022__HPPC__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-083828__2022__Capacity_25degC.txt": {
+      "mtime": 1766217082.784647,
+      "size": 132096518,
+      "output": "data/TUM__tesla-inr46800-2022-083828__2022__Capacity_25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-131828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217085.5346582,
+      "size": 140628620,
+      "output": "data/TUM__tesla-inr46800-2022-131828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-186828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217086.8553748,
+      "size": 138125645,
+      "output": "data/TUM__tesla-inr46800-2022-186828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-444828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217089.2531147,
+      "size": 131286504,
+      "output": "data/TUM__tesla-inr46800-2022-444828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-536828__2022__2C__25degC.txt": {
+      "mtime": 1766217094.456128,
+      "size": 103697,
+      "output": "data/TUM__tesla-inr46800-2022-536828__2022__2C__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-536828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217090.537379,
+      "size": 130886305,
+      "output": "data/TUM__tesla-inr46800-2022-536828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-549828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217088.10515,
+      "size": 139375163,
+      "output": "data/TUM__tesla-inr46800-2022-549828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-2022-601828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217084.1703444,
+      "size": 132228787,
+      "output": "data/TUM__tesla-inr46800-2022-601828__2022__Capacity__25degC.bdf.parquet"
+    },
+    "TUM__tesla-inr46800-536828__2022__1C__25degC.txt": {
+      "mtime": 1766217094.326586,
+      "size": 110683,
+      "output": "data/TUM__tesla-inr46800-536828__2022__1C__25degC.bdf.parquet"
+    },
+    "TUM__teslta-inr46800-2022-550828__2022__Capacity__25degC.txt": {
+      "mtime": 1766217091.6057448,
+      "size": 130270534,
+      "output": "data/TUM__teslta-inr46800-2022-550828__2022__Capacity__25degC.bdf.parquet"
+    }
+  },
+  "updated_at": "2026-01-13T22:17:00.518483+00:00"
+}

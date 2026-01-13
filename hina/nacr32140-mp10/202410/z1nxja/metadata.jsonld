@@ -12,70 +12,70 @@
     "schema:Product",
     "Battery"
   ],
-  "@id": "https://w3id.org/digibatt/battery-data/google/g20m7/202512/gru6mv",
+  "@id": "https://w3id.org/digibatt/battery-data/hina/nacr32140mp10/202410/z1nxja",
   "schema:identifier": [
-    "gru6mv",
-    "ICP6/65/75"
+    "z1nxja",
+    "ICP42/127/10"
   ],
-  "schema:name": "google-g20m7-202512-gru6mv",
-  "schema:model": "G20M7",
+  "schema:name": "hina-nacr32140mp10-202410-z1nxja",
+  "schema:model": "NaCR32140MP10",
   "schema:manufacturer": {
     "@type": "schema:Organization",
-    "schema:name": "Google"
+    "schema:name": "Hina"
   },
-  "schema:category": "li-ion",
+  "schema:category": "na-ion",
   "schema:additionalProperty": [
     {
       "@type": "schema:PropertyValue",
       "schema:name": "IEC code",
       "schema:propertyID": "bdf:iec_code",
-      "schema:value": "ICP6/65/75"
+      "schema:value": "ICP42/127/10"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Chemistry",
       "schema:propertyID": "bdf:chemistry",
-      "schema:value": "li-ion"
+      "schema:value": "na-ion"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Form factor",
       "schema:propertyID": "bdf:form_factor",
-      "schema:value": "prismatic"
+      "schema:value": "cylindrical"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Nominal voltage",
       "schema:propertyID": "bdf:nominal_voltage_v",
-      "schema:value": 3.9,
+      "schema:value": 3.0,
       "schema:unitText": "V"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Rated capacity",
       "schema:propertyID": "bdf:rated_capacity_ah",
-      "schema:value": 4.835,
+      "schema:value": 10.0,
       "schema:unitText": "Ah"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Rated energy",
       "schema:propertyID": "bdf:rated_energy_wh",
-      "schema:value": 18.8,
+      "schema:value": 30.0,
       "schema:unitText": "Wh"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Mass",
       "schema:propertyID": "bdf:mass_g",
-      "schema:value": 63,
+      "schema:value": 270.0,
       "schema:unitText": "g"
     },
     {
       "@type": "schema:PropertyValue",
       "schema:name": "Volume",
       "schema:propertyID": "bdf:volume_l",
-      "schema:value": 0.02925,
+      "schema:value": 0.121198,
       "schema:unitText": "L"
     }
   ],
@@ -83,57 +83,56 @@
     {
       "@type": "NominalVoltage",
       "rdfs:label": "nominal voltage",
-      "hasNumberValue": 3.9,
+      "hasNumberValue": 3.0,
       "hasMeasurementUnit": "emmo:Volt"
     },
     {
       "@type": "RatedCapacity",
       "rdfs:label": "rated capacity",
-      "hasNumberValue": 4.835,
+      "hasNumberValue": 10.0,
       "hasMeasurementUnit": "emmo:AmpereHour"
     },
     {
       "@type": "RatedEnergy",
       "rdfs:label": "rated energy",
-      "hasNumberValue": 18.8,
+      "hasNumberValue": 30.0,
       "hasMeasurementUnit": "emmo:WattHour"
     },
     {
       "@type": "Mass",
       "rdfs:label": "mass",
-      "hasNumberValue": 63,
+      "hasNumberValue": 270.0,
       "hasMeasurementUnit": "emmo:Gram"
     },
     {
       "@type": "Volume",
       "rdfs:label": "volume",
-      "hasNumberValue": 0.02925,
+      "hasNumberValue": 0.121198,
       "hasMeasurementUnit": "emmo:Litre"
     }
   ],
-  "hasPositiveElectrode": {
-    "@type": "Electrode",
-    "rdfs:label": "positive electrode",
-    "hasActiveMaterial": [
-      {
-        "@type": "Cobalt",
-        "rdfs:label": "Cobalt"
-      }
-    ]
-  },
   "hasNegativeElectrode": {
     "@type": "Electrode",
     "rdfs:label": "negative electrode",
     "hasActiveMaterial": [
       {
-        "@type": "Graphite",
-        "rdfs:label": "Graphite"
+        "@type": "Material",
+        "rdfs:label": "carbon"
       }
     ]
   },
   "schema:subjectOf": [
     {
-      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-gru6mv__20260109__HPPC__25degC.bdf.parquet#dataset"
+      "@id": "https://github.com/digibatt/battery-data/melasta/slpba842126hv/202410/data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250609__C50__25degC.bdf.parquet#dataset"
+    },
+    {
+      "@id": "https://github.com/digibatt/battery-data/melasta/slpba842126hv/202410/data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250625__C50__45degC.bdf.parquet#dataset"
+    },
+    {
+      "@id": "https://github.com/digibatt/battery-data/melasta/slpba842126hv/202410/data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250626__C50__45degC.bdf.parquet#dataset"
+    },
+    {
+      "@id": "https://github.com/digibatt/battery-data/melasta/slpba842126hv/202410/data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250710__C50__15degC.bdf.parquet#dataset"
     }
   ]
 }

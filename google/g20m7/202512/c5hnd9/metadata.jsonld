@@ -23,12 +23,19 @@
     "@type": "schema:Organization",
     "schema:name": "Google"
   },
+  "schema:category": "li-ion",
   "schema:additionalProperty": [
     {
       "@type": "schema:PropertyValue",
       "schema:name": "IEC code",
       "schema:propertyID": "bdf:iec_code",
       "schema:value": "ICP6/65/75"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Chemistry",
+      "schema:propertyID": "bdf:chemistry",
+      "schema:value": "li-ion"
     },
     {
       "@type": "schema:PropertyValue",
@@ -123,5 +130,13 @@
         "rdfs:label": "Graphite"
       }
     ]
-  }
+  },
+  "schema:subjectOf": [
+    {
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260109__C30__25degC.bdf.parquet#dataset"
+    },
+    {
+      "@id": "https://github.com/digibatt/battery-data/google/g20m7/202512/data/SINTEF__google-g20m7-202512-c5hnd9__20260112__HPPC__25degC.bdf.parquet#dataset"
+    }
+  ]
 }

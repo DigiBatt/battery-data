@@ -15,3 +15,10 @@
 !*.bdf.*
 !metadata.*
 !*.md
+
+# Allow specific metadata files
+!collection.json
+!battery.json
+!person.json
+!data_download.json
+!dataset.json

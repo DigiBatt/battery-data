@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "items": {
+    "SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__25degC.csv": {
+      "mtime": 1768318789.2907715,
+      "size": 119481248,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__35degC.csv": {
+      "mtime": 1768318789.3259957,
+      "size": 4719199,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__35degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__45degC.csv": {
+      "mtime": 1768318790.3293695,
+      "size": 4722472,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-aampje__20241011__DCIR__C10__45degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__25degC.csv": {
+      "mtime": 1768318787.0967093,
+      "size": 119483324,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__35degC.csv": {
+      "mtime": 1768318787.1435838,
+      "size": 4721088,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__35degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__45degC.csv": {
+      "mtime": 1768318788.1495378,
+      "size": 4729178,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__DCIR__C10__45degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__Rate__25degC.csv": {
+      "mtime": 1768318793.307126,
+      "size": 3151396,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-hqmg7h__20241011__Rate__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__25degC.csv": {
+      "mtime": 1768318790.2824852,
+      "size": 119817927,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__35degC.csv": {
+      "mtime": 1768318790.3821635,
+      "size": 5283730,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__35degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__45degC.csv": {
+      "mtime": 1768318790.4279962,
+      "size": 5279159,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-p0jqc2__20241011__DCIR__C20__45degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__25degC.csv": {
+      "mtime": 1768318788.0901186,
+      "size": 119482149,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__35degC.csv": {
+      "mtime": 1768318788.1996024,
+      "size": 4725735,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__35degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__45degC.csv": {
+      "mtime": 1768318788.251339,
+      "size": 4730128,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__DCIR__C10__45degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__Rate__25degC.csv": {
+      "mtime": 1768318793.2435467,
+      "size": 3092915,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-qv8zn1__20241011__Rate__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__25degC.csv": {
+      "mtime": 1768318791.3592856,
+      "size": 119952402,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__35degC.csv": {
+      "mtime": 1768318791.4269114,
+      "size": 5266913,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__35degC.bdf.parquet"
+    },
+    "SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__45degC.csv": {
+      "mtime": 1768318791.4777362,
+      "size": 5269115,
+      "output": "data/SINTEF__melasta-slpba842126hv-202410-tfscsy__20241011__DCIR__C20__45degC.bdf.parquet"
+    }
+  },
+  "updated_at": "2026-01-13T22:13:25.730785+00:00"
+}

@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "items": {
+    "SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250617__2C__25degC.mpt": {
+      "mtime": 1768320570.666117,
+      "size": 7172792,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250617__2C__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250618__2C__45degC.mpt": {
+      "mtime": 1768320570.7124703,
+      "size": 7579705,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250618__2C__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250619__2C__15degC.mpt": {
+      "mtime": 1768320570.6213057,
+      "size": 8439853,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250619__2C__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250620__2C__25degC.mpt": {
+      "mtime": 1768320575.3857262,
+      "size": 8191433,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-3gvjz6__20250620__2C__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-9peqy1__20250609__C20__25degC.mpt": {
+      "mtime": 1768320572.5184038,
+      "size": 23661831,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-9peqy1__20250609__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-9peqy1__20250611__C20__45degC.mpt": {
+      "mtime": 1768320572.6973708,
+      "size": 27127970,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-9peqy1__20250611__C20__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-9peqy1__20250612__C20__15degC.mpt": {
+      "mtime": 1768320572.3529851,
+      "size": 26936774,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-9peqy1__20250612__C20__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-9peqy1__20250616__C20__25degC.mpt": {
+      "mtime": 1768320572.1932263,
+      "size": 26706226,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-9peqy1__20250616__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-e6yezv__20250612__C50__25degC.mpt": {
+      "mtime": 1768320573.0242138,
+      "size": 53617188,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-e6yezv__20250612__C50__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-e6yezv__20250623__GITT__25degC.mpt": {
+      "mtime": 1768320573.3018289,
+      "size": 74699989,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-e6yezv__20250623__GITT__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-mhpggp__20250609__C50__25degC.mpt": {
+      "mtime": 1768320573.986567,
+      "size": 53745532,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-mhpggp__20250609__C50__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-mhpggp__20250625__C50__45degC.mpt": {
+      "mtime": 1768320574.013486,
+      "size": 1764922,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-mhpggp__20250625__C50__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-mhpggp__20250626__C50__45degC.mpt": {
+      "mtime": 1768320574.363384,
+      "size": 57745372,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-mhpggp__20250626__C50__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-mhpggp__20250710__C50__15degC.mpt": {
+      "mtime": 1768320573.6545002,
+      "size": 59399281,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-mhpggp__20250710__C50__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-r30yqg__20250609__C20__25degC.mpt": {
+      "mtime": 1768320571.8451273,
+      "size": 23613013,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-r30yqg__20250609__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-r30yqg__20250611__C20__45degC.mpt": {
+      "mtime": 1768320572.0134375,
+      "size": 27185183,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-r30yqg__20250611__C20__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-r30yqg__20250612__C20__15degC.mpt": {
+      "mtime": 1768320571.6996102,
+      "size": 26877545,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-r30yqg__20250612__C20__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-r30yqg__20250616__C20__25degC.mpt": {
+      "mtime": 1768320571.5530722,
+      "size": 26667675,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-r30yqg__20250616__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-v0pygf__20250617__2C__25degC.mpt": {
+      "mtime": 1768320570.8368099,
+      "size": 7251093,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-v0pygf__20250617__2C__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-v0pygf__20250618__2C__45degC.mpt": {
+      "mtime": 1768320570.8685,
+      "size": 7520444,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-v0pygf__20250618__2C__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-v0pygf__20250619__2C__15degC.mpt": {
+      "mtime": 1768320570.7895424,
+      "size": 8665190,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-v0pygf__20250619__2C__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-v0pygf__20250620__2C__25degC.mpt": {
+      "mtime": 1768320570.7572596,
+      "size": 8292800,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-v0pygf__20250620__2C__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250609__C20__25degC.mpt": {
+      "mtime": 1768320571.2634614,
+      "size": 23745379,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250609__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250611__C20__45degC.mpt": {
+      "mtime": 1768320571.4060793,
+      "size": 27267738,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250611__C20__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250612__C20__15degC.mpt": {
+      "mtime": 1768320571.1221893,
+      "size": 27417408,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250612__C20__15degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250616__C20__25degC.mpt": {
+      "mtime": 1768320571.0035896,
+      "size": 26788244,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-wv5jgv__20250616__C20__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-z1nxja__20250609__C50__25degC.mpt": {
+      "mtime": 1768320575.002321,
+      "size": 53706707,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250609__C50__25degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-z1nxja__20250625__C50__45degC.mpt": {
+      "mtime": 1768320575.0262718,
+      "size": 1762503,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250625__C50__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-z1nxja__20250626__C50__45degC.mpt": {
+      "mtime": 1768320575.3567216,
+      "size": 57676213,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250626__C50__45degC.bdf.parquet"
+    },
+    "SINTEF__hina-nacr32140mp10-202410-z1nxja__20250710__C50__15degC.mpt": {
+      "mtime": 1768320574.719017,
+      "size": 59364231,
+      "output": "data/SINTEF__hina-nacr32140mp10-202410-z1nxja__20250710__C50__15degC.bdf.parquet"
+    }
+  },
+  "updated_at": "2026-01-13T22:12:22.377376+00:00"
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "manuel-ank",
+    "name": "Manuel Ank",
+    "orcid": "https://orcid.org/0000-0002-2060-9521",
+    "given_name": "Manuel",
+    "family_name": "Ank",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "alessandro-sommer",
+    "name": "Alessandro Sommer",
+    "orcid": "https://orcid.org/0000-0002-2390-1528",
+    "given_name": "Alessandro",
+    "family_name": "Sommer",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "kareem-abo-gamra",
+    "name": "Kareem Abo Gamra",
+    "orcid": "https://orcid.org/0000-0001-9739-8710",
+    "given_name": "Kareem",
+    "family_name": "Abo Gamra",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "jan-schoeberl",
+    "name": "Jan Schöberl",
+    "orcid": "https://orcid.org/0009-0004-7601-0325",
+    "given_name": "Jan",
+    "family_name": "Schöberl",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "matthias-leeb",
+    "name": "Matthias Leeb",
+    "orcid": "https://orcid.org/0000-0003-1156-9078",
+    "given_name": "Matthias",
+    "family_name": "Leeb",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "johannes-schachtl",
+    "name": "Johannes Schachtl",
+    "orcid": "https://orcid.org/0009-0007-9108-5327",
+    "given_name": "Johannes",
+    "family_name": "Schachtl",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "noah-streidel",
+    "name": "Noah Streidel",
+    "orcid": "https://orcid.org/0009-0004-2515-2059",
+    "given_name": "Noah",
+    "family_name": "Streidel",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "sandro-stock",
+    "name": "Sandro Stock",
+    "orcid": "https://orcid.org/0000-0003-2107-6031",
+    "given_name": "Sandro",
+    "family_name": "Stock",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "markus-schreiber",
+    "name": "Markus Schreiber",
+    "orcid": "https://orcid.org/0000-0002-6530-0077",
+    "given_name": "Markus",
+    "family_name": "Schreiber",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "philip-bilfinger",
+    "name": "Philip Bilfinger",
+    "orcid": "https://orcid.org/0000-0002-9100-9689",
+    "given_name": "Philip",
+    "family_name": "Bilfinger",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "christian-allgaeuer",
+    "name": "Christian Allgäuer",
+    "orcid": "https://orcid.org/0009-0007-8037-895X",
+    "given_name": "Christian",
+    "family_name": "Allgäuer",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "philipp-rosner",
+    "name": "Philipp Rosner",
+    "orcid": "https://orcid.org/0000-0001-6481-532X",
+    "given_name": "Philipp",
+    "family_name": "Rosner",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "jan-hagemeister",
+    "name": "Jan Hagemeister",
+    "orcid": "https://orcid.org/0000-0001-8307-6614",
+    "given_name": "Jan",
+    "family_name": "Hagemeister",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "matti-roessle",
+    "name": "Matti Rößle",
+    "orcid": "https://orcid.org/0009-0007-5407-6798",
+    "given_name": "Matti",
+    "family_name": "Rößle",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  },
+  {
+    "id": "ruediger-daub",
+    "name": "Rüdiger Daub",
+    "orcid": "https://orcid.org/0000-0002-5120-4228",
+    "given_name": "Rüdiger",
+    "family_name": "Daub",
+    "affiliation": "Technical University of Munich (TUM), Institute for Machine Tools and Industrial Management"
+  },
+  {
+    "id": "markus-lienkamp",
+    "name": "Markus Lienkamp",
+    "orcid": "https://orcid.org/0000-0002-9263-5323",
+    "given_name": "Markus",
+    "family_name": "Lienkamp",
+    "affiliation": "Technical University of Munich (TUM), Institute of Automotive Technology"
+  }
+]
