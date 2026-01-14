@@ -1,0 +1,26 @@
+{
+  "title": "Panasonic NCR18650PF Li-ion Battery Data",
+  "description": "Raw data from the Mendeley Data dataset by Phillip Kollmeyer (doi: 10.17632/wykht8y7tg.1) curated for integration into the BDF registry.",
+  "keywords": [
+    "li-ion",
+    "ncr18650pf",
+    "panasonic",
+    "battery",
+    "hppc",
+    "eis",
+    "drive-cycle",
+    "ocv",
+    "kalman-filtering",
+    "neural-networks",
+    "nca",
+    "graphite"
+  ],
+  "license": "CC-BY-4.0",
+  "url": "https://github.com/digibatt/battery-data/panasonic/ncr18650pf/201707",
+  "url_base": "https://github.com/digibatt/battery-data/panasonic/ncr18650pf/201707",
+  "version": "1.0.0",
+  "doi": "10.17632/wykht8y7tg.1",
+  "citation": [
+    "Phillip Kollmeyer (2018) Panasonic 18650PF Li-ion Battery Data, Mendeley Data, V1, doi: 10.17632/wykht8y7tg.1"
+  ]
+}

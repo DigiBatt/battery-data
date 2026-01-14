@@ -1,0 +1,24 @@
+{
+  "title": "Dataset for Tabular OCV modeling",
+  "description": "Battery terminal voltage and current recorded during the OCV-SOC characterization process of a Li-ion Samsung 30T-INR21700 cell. Includes Arbin cycler data and a reproducible CC-CV charge and C/30 discharge/charge OCV test procedure for developing OCV-SOC models and tabular OCV representations.",
+  "keywords": [
+    "battery management system",
+    "lithium ion battery",
+    "state-of-charge",
+    "ocv-soc",
+    "open-circuit voltage",
+    "samsung",
+    "30t",
+    "inr21700-30t",
+    "arbin",
+    "c/30",
+    "25degc",
+    "tabular ocv"
+  ],
+  "license": "CC-BY-4.0",
+  "url": "https://github.com/digibatt/battery-data/samsung/inr2170030t/2022",
+  "url_base": "https://github.com/digibatt/battery-data/samsung/inr2170030t/2022",
+  "version": "1.0.0",
+  "doi": "10.17632/m9w7grpjc7.1",
+  "citation": "Sundaresan, Sneha; Devabattini, Bharath C.; Kumar, Pradeep; Pattipati, Krishna; Balasingam, Balakumar (2022), “Dataset for Tabular OCV modeling”, Mendeley Data, V1, doi: 10.17632/m9w7grpjc7.1"
+}

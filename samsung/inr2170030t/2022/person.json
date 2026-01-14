@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sneha-sundaresan",
+    "name": "Sneha Sundaresan",
+    "orcid": "https://orcid.org/0000-0001-7471-440X",
+    "given_name": "Sneha",
+    "family_name": "Sundaresan",
+    "affiliation": "University of Windsor"
+  },
+  {
+    "id": "bharath-c-devabattini",
+    "name": "Bharath C. Devabattini",
+    "orcid": null,
+    "given_name": "Bharath C.",
+    "family_name": "Devabattini",
+    "affiliation": "University of Windsor"
+  },
+  {
+    "id": "pradeep-kumar",
+    "name": "Pradeep Kumar",
+    "orcid": null,
+    "given_name": "Pradeep",
+    "family_name": "Kumar",
+    "affiliation": "University of Windsor"
+  },
+  {
+    "id": "krishna-pattipati",
+    "name": "Krishna Pattipati",
+    "orcid": null,
+    "given_name": "Krishna",
+    "family_name": "Pattipati",
+    "affiliation": "University of Windsor"
+  },
+  {
+    "id": "balakumar-balasingam",
+    "name": "Balakumar Balasingam",
+    "orcid": null,
+    "given_name": "Balakumar",
+    "family_name": "Balasingam",
+    "affiliation": "University of Windsor"
+  }
+]

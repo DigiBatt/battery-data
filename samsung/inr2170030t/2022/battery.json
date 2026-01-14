@@ -1,0 +1,23 @@
+{
+  "spec": {
+    "manufacturer": "Samsung",
+    "model": "INR2170030T",
+    "batch": "2022",
+    "namespace": "https://w3id.org/digibatt/battery-data/",
+    "name_template": "{manufacturer}-{model}-{batch}-{id}",
+    "iri_template": "{namespace}{manufacturer}/{model}/{batch}/{id}",
+    "iec_code": "INR21/700",
+    "chemistry": "li-ion",
+    "form_factor": "cylindrical",
+    "nominal_voltage_v": 3.6,
+    "rated_capacity_ah": 3.0,
+    "rated_energy_wh": 10.8,
+    "mass_g": 69.0,
+    "volume_l": 0.024,
+    "pe_materials": ["nmc"],
+    "ne_materials": ["graphite"]
+  },
+  "ids": [
+    "C1202"
+  ]
+}

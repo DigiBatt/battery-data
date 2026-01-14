@@ -1,0 +1,23 @@
+{
+  "spec": {
+    "manufacturer": "Panasonic",
+    "model": "NCR18650PF",
+    "batch": "201707",
+    "namespace": "https://w3id.org/digibatt/battery-data/",
+    "name_template": "{manufacturer}-{model}-{batch}-{id}",
+    "iri_template": "{namespace}{manufacturer}/{model}/{batch}/{id}",
+    "iec_code": "INR18/650",
+    "chemistry": "li-ion",
+    "form_factor": "cylindrical",
+    "nominal_voltage_v": 3.6,
+    "rated_capacity_ah": 2.9,
+    "rated_energy_wh": 9.9,
+    "mass_g": 47.5,
+    "volume_l": 0.0165,
+    "pe_materials": ["nca"],
+    "ne_materials": ["graphite"]
+  },
+  "ids": [
+    "wykht8"
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "version": 1,
+  "items": {
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_1__25degC.mat": {
+      "mtime": 1768386310.8559408,
+      "size": 6448,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_2__25degC.mat": {
+      "mtime": 1768386312.3324509,
+      "size": 5200,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_REPEAT__25degC.mat": {
+      "mtime": 1768386314.015889,
+      "size": 34591,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__CHARGE_1C_REPEAT__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__DISCHARGE_1C_1__25degC.mat": {
+      "mtime": 1768386311.3044708,
+      "size": 15312,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__DISCHARGE_1C_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__DISCHARGE_1C_REPEAT__25degC.mat": {
+      "mtime": 1768386312.8822918,
+      "size": 109182,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__DISCHARGE_1C_REPEAT__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170309__PAUSE_REPEAT__25degC.mat": {
+      "mtime": 1768386313.4147117,
+      "size": 734,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170309__PAUSE_REPEAT__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170310__DISCHARGE_1C_2__25degC.mat": {
+      "mtime": 1768386314.4674711,
+      "size": 14944,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170310__DISCHARGE_1C_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170311__CHARGE_1C_3__25degC.mat": {
+      "mtime": 1768386315.354928,
+      "size": 5018,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170311__CHARGE_1C_3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170311__HPPC_DISCHARGE_BETWEEN_PULSES__25degC.mat": {
+      "mtime": 1768386316.9447725,
+      "size": 16297,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170311__HPPC_DISCHARGE_BETWEEN_PULSES__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170311__HPPC_PULSES_C2_1C_2C_4C_6C__25degC.mat": {
+      "mtime": 1768386316.49515,
+      "size": 1028421,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170311__HPPC_PULSES_C2_1C_2C_4C_6C__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170311__TESTSEQ_TS003014__25degC.mat": {
+      "mtime": 1768386315.8162434,
+      "size": 1017,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170311__TESTSEQ_TS003014__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170312__CHARGE_1C_2__25degC.mat": {
+      "mtime": 1768386317.4294784,
+      "size": 5207,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170312__CHARGE_1C_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170318__CHARGE_1C_1__25degC.mat": {
+      "mtime": 1768386317.8292193,
+      "size": 5369,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170318__CHARGE_1C_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170318__DRIVE_CYCLE_CYCLE1__25degC.mat": {
+      "mtime": 1768386417.0295997,
+      "size": 2857090,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170318__DRIVE_CYCLE_CYCLE1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170318__PAUSE_1__25degC.mat": {
+      "mtime": 1768386415.9645615,
+      "size": 2444,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170318__PAUSE_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_2__25degC.mat": {
+      "mtime": 1768386418.9611156,
+      "size": 4563,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_3__25degC.mat": {
+      "mtime": 1768386420.7092807,
+      "size": 4478,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_4__25degC.mat": {
+      "mtime": 1768386422.8245788,
+      "size": 4673,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__CHARGE_1C_4__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE2__25degC.mat": {
+      "mtime": 1768386418.4991796,
+      "size": 2921369,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE3__25degC.mat": {
+      "mtime": 1768386420.2434702,
+      "size": 2630402,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE4__25degC.mat": {
+      "mtime": 1768386422.2250178,
+      "size": 3175271,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__DRIVE_CYCLE_CYCLE4__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_2__25degC.mat": {
+      "mtime": 1768386417.6457093,
+      "size": 1189,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_3__25degC.mat": {
+      "mtime": 1768386419.4106443,
+      "size": 1225,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_4__25degC.mat": {
+      "mtime": 1768386421.1848402,
+      "size": 1180,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170319__PAUSE_4__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_1__25degC.mat": {
+      "mtime": 1768386424.605907,
+      "size": 4866,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_2_DUP2__25degC.mat": {
+      "mtime": 1768386428.1729374,
+      "size": 5004,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_2_DUP2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_2__25degC.mat": {
+      "mtime": 1768386426.4723988,
+      "size": 5019,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__CHARGE_1C_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_HWFET_A__25degC.mat": {
+      "mtime": 1768386426.0372014,
+      "size": 2007189,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_HWFET_A__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_HWFET_B__25degC.mat": {
+      "mtime": 1768386427.7339003,
+      "size": 1970700,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_HWFET_B__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_US06__25degC.mat": {
+      "mtime": 1768386424.1662323,
+      "size": 1414084,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__DRIVE_CYCLE_US06__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_1__25degC.mat": {
+      "mtime": 1768386423.2729952,
+      "size": 1106,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_1__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_2_DUP2__25degC.mat": {
+      "mtime": 1768386426.877967,
+      "size": 1138,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_2_DUP2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_2__25degC.mat": {
+      "mtime": 1768386425.055162,
+      "size": 1087,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_2__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_3__25degC.mat": {
+      "mtime": 1768386428.7420363,
+      "size": 1107,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170320__PAUSE_3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_3__25degC.mat": {
+      "mtime": 1768386430.312402,
+      "size": 4953,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_3__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_4__25degC.mat": {
+      "mtime": 1768386432.1641061,
+      "size": 4965,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_4__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_5__25degC.mat": {
+      "mtime": 1768386434.1313622,
+      "size": 4900,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__CHARGE_1C_5__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_LA92__25degC.mat": {
+      "mtime": 1768386431.7348766,
+      "size": 3635022,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_LA92__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_NN__25degC.mat": {
+      "mtime": 1768386433.582883,
+      "size": 3111972,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_NN__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_UDDS__25degC.mat": {
+      "mtime": 1768386429.8765674,
+      "size": 5526237,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__DRIVE_CYCLE_UDDS__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__PAUSE_4__25degC.mat": {
+      "mtime": 1768386430.7552264,
+      "size": 1143,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__PAUSE_4__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170321__PAUSE_5__25degC.mat": {
+      "mtime": 1768386432.6040623,
+      "size": 1150,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170321__PAUSE_5__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_COMBINED_US06_HWFET_UDDS_LA92_NN__10degC.mat": {
+      "mtime": 1768386437.0087113,
+      "size": 14823473,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_COMBINED_US06_HWFET_UDDS_LA92_NN__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_HWFET__10degC.mat": {
+      "mtime": 1768386440.8389335,
+      "size": 1922029,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_HWFET__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_LA92__10degC.mat": {
+      "mtime": 1768386440.0476072,
+      "size": 3365878,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_LA92__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_NN__10degC.mat": {
+      "mtime": 1768386439.03275,
+      "size": 2832943,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_NN__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_UDDS__10degC.mat": {
+      "mtime": 1768386438.077139,
+      "size": 5328359,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_UDDS__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_US06__10degC.mat": {
+      "mtime": 1768386434.8432257,
+      "size": 1264871,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__DRIVE_CYCLE_US06__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__HPPC_DISCHARGE_BETWEEN_PULSES__10degC.mat": {
+      "mtime": 1768386442.0004778,
+      "size": 7047,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__HPPC_DISCHARGE_BETWEEN_PULSES__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170327__HPPC_PULSES_C2_1C_2C_4C_6C__10degC.mat": {
+      "mtime": 1768386441.590269,
+      "size": 932854,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170327__HPPC_PULSES_C2_1C_2C_4C_6C__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_1_DBD0F3__10degC.mat": {
+      "mtime": 1768386444.7331085,
+      "size": 4930,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_1_DBD0F3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_1__10degC.mat": {
+      "mtime": 1768386444.2483194,
+      "size": 4930,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_2A__10degC.mat": {
+      "mtime": 1768386442.420794,
+      "size": 5584,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__CHARGE_1C_2A__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__DRIVE_CYCLE_CYCLE1__10degC.mat": {
+      "mtime": 1768386443.798915,
+      "size": 2496164,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__DRIVE_CYCLE_CYCLE1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__DRIVE_CYCLE_CYCLE2__10degC.mat": {
+      "mtime": 1768386446.0855143,
+      "size": 2175419,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__DRIVE_CYCLE_CYCLE2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__PAUSE_1__10degC.mat": {
+      "mtime": 1768386442.8913715,
+      "size": 1333,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__PAUSE_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170328__PAUSE_2__10degC.mat": {
+      "mtime": 1768386445.1765106,
+      "size": 1315,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170328__PAUSE_2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__CHARGE_1C_2__10degC.mat": {
+      "mtime": 1768386446.5745604,
+      "size": 4974,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__CHARGE_1C_2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__CHARGE_1C_3__10degC.mat": {
+      "mtime": 1768386448.325852,
+      "size": 5204,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__CHARGE_1C_3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__DRIVE_CYCLE_CYCLE3__10degC.mat": {
+      "mtime": 1768386447.8915071,
+      "size": 2721205,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__DRIVE_CYCLE_CYCLE3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__DRIVE_CYCLE_CYCLE4__10degC.mat": {
+      "mtime": 1768386449.630251,
+      "size": 2667860,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__DRIVE_CYCLE_CYCLE4__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__PAUSE_3__10degC.mat": {
+      "mtime": 1768386447.0353673,
+      "size": 1290,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__PAUSE_3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170405__PAUSE_4__10degC.mat": {
+      "mtime": 1768386448.8048677,
+      "size": 1311,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170405__PAUSE_4__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170406__CHARGE_1C_4__10degC.mat": {
+      "mtime": 1768386450.2523952,
+      "size": 5225,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170406__CHARGE_1C_4__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170406__PAUSE_5__10degC.mat": {
+      "mtime": 1768386450.819762,
+      "size": 1305,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170406__PAUSE_5__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170427__CHARGE_1C_1A__10degC.mat": {
+      "mtime": 1768386451.2503319,
+      "size": 474,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170427__CHARGE_1C_1A__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170427__HPPC_DISCHARGE_BETWEEN_PULSES__10degC.mat": {
+      "mtime": 1768386451.7523654,
+      "size": 9073,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170427__HPPC_DISCHARGE_BETWEEN_PULSES__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170429__CHARGE_1C_2A__10degC.mat": {
+      "mtime": 1768386452.200574,
+      "size": 4405,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170429__CHARGE_1C_2A__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170508__OCV_C20_END_OF_TESTS__25degC.mat": {
+      "mtime": 1768386452.7715893,
+      "size": 88295,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170508__OCV_C20_END_OF_TESTS__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170520__DISCHARGE_PULSE__25degC.mat": {
+      "mtime": 1768386453.8741171,
+      "size": 867237,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170520__DISCHARGE_PULSE__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_DISCHARGE_BETWEEN_PULSES_4995DA__0degC.mat": {
+      "mtime": 1768386455.5228117,
+      "size": 7062,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_DISCHARGE_BETWEEN_PULSES_4995DA__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_DISCHARGE_BETWEEN_PULSES__0degC.mat": {
+      "mtime": 1768386455.0878437,
+      "size": 7062,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_DISCHARGE_BETWEEN_PULSES__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_PULSES_C2_1C_2C_4C_6C__0degC.mat": {
+      "mtime": 1768386454.6315317,
+      "size": 867237,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170520__HPPC_PULSES_C2_1C_2C_4C_6C__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170520__PRECHARGE__25degC.mat": {
+      "mtime": 1768386453.1848552,
+      "size": 490,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170520__PRECHARGE__25degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170521__CHARGE_1C_2A__0degC.mat": {
+      "mtime": 1768386455.9256346,
+      "size": 6677,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170521__CHARGE_1C_2A__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170522__HPPC_DISCHARGE_BETWEEN_PULSES__0degC.mat": {
+      "mtime": 1768386456.3670728,
+      "size": 8143,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170522__HPPC_DISCHARGE_BETWEEN_PULSES__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170526__CHARGE_1C_2A__0degC.mat": {
+      "mtime": 1768386456.9472308,
+      "size": 54570,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170526__CHARGE_1C_2A__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170530__CHARGE_1C_1__0degC.mat": {
+      "mtime": 1768386458.6286314,
+      "size": 6765,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170530__CHARGE_1C_1__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170530__CHARGE_1C_2A__0degC.mat": {
+      "mtime": 1768386457.4332027,
+      "size": 6703,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170530__CHARGE_1C_2A__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170530__DRIVE_CYCLE_CYCLE1__0degC.mat": {
+      "mtime": 1768386458.212114,
+      "size": 2182675,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170530__DRIVE_CYCLE_CYCLE1__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170530__DRIVE_CYCLE_CYCLE2__0degC.mat": {
+      "mtime": 1768386459.4406314,
+      "size": 2103994,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170530__DRIVE_CYCLE_CYCLE2__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__CHARGE_1C_2__0degC.mat": {
+      "mtime": 1768386462.6115985,
+      "size": 6980,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__CHARGE_1C_2__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__CHARGE_1C_3__0degC.mat": {
+      "mtime": 1768386464.3774972,
+      "size": 6331,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__CHARGE_1C_3__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_COMBINED_LA92_NN__0degC.mat": {
+      "mtime": 1768386462.1612732,
+      "size": 3515825,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_COMBINED_LA92_NN__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_CYCLE3__0degC.mat": {
+      "mtime": 1768386463.8392766,
+      "size": 1527906,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_CYCLE3__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_CYCLE4__0degC.mat": {
+      "mtime": 1768386465.598104,
+      "size": 1815106,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_CYCLE4__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_LA92__0degC.mat": {
+      "mtime": 1768386460.2986298,
+      "size": 1997264,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_LA92__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_NN__0degC.mat": {
+      "mtime": 1768386461.1021705,
+      "size": 1481656,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__DRIVE_CYCLE_NN__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__PAUSE_3__0degC.mat": {
+      "mtime": 1768386463.013212,
+      "size": 2041,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__PAUSE_3__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170601__PAUSE_4__0degC.mat": {
+      "mtime": 1768386464.7883577,
+      "size": 1991,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170601__PAUSE_4__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_4__0degC.mat": {
+      "mtime": 1768386466.0712278,
+      "size": 6426,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_4__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_5__0degC.mat": {
+      "mtime": 1768386467.59926,
+      "size": 6405,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_5__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_6__0degC.mat": {
+      "mtime": 1768386469.5409443,
+      "size": 6591,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_6__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_7__0degC.mat": {
+      "mtime": 1768386471.46302,
+      "size": 6487,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__CHARGE_1C_7__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_HWFET__0degC.mat": {
+      "mtime": 1768386469.0394318,
+      "size": 1593804,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_HWFET__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_UDDS__0degC.mat": {
+      "mtime": 1768386470.9896002,
+      "size": 2939920,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_UDDS__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_US06__0degC.mat": {
+      "mtime": 1768386467.211699,
+      "size": 986553,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__DRIVE_CYCLE_US06__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_5__0degC.mat": {
+      "mtime": 1768386466.523304,
+      "size": 1969,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_5__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_6__0degC.mat": {
+      "mtime": 1768386468.1739745,
+      "size": 2032,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_6__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_7__0degC.mat": {
+      "mtime": 1768386469.9995046,
+      "size": 1983,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170602__PAUSE_7__0degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_COMBINED_US06_HWFET_UDDS_LA92__-10degC.mat": {
+      "mtime": 1768386474.860345,
+      "size": 6102930,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_COMBINED_US06_HWFET_UDDS_LA92__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_HWFET__-10degC.mat": {
+      "mtime": 1768386472.1696792,
+      "size": 1182027,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_HWFET__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_LA92__-10degC.mat": {
+      "mtime": 1768386472.943861,
+      "size": 1482070,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_LA92__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_UDDS__-10degC.mat": {
+      "mtime": 1768386473.6959329,
+      "size": 2211870,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_UDDS__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_US06__-10degC.mat": {
+      "mtime": 1768386475.65758,
+      "size": 739049,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__DRIVE_CYCLE_US06__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__HPPC_DISCHARGE_BETWEEN_PULSES__-10degC.mat": {
+      "mtime": 1768386477.3447778,
+      "size": 13991,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__HPPC_DISCHARGE_BETWEEN_PULSES__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__HPPC_PULSES_C2_1C_2C_4C_6C__-10degC.mat": {
+      "mtime": 1768386476.9101164,
+      "size": 778108,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__HPPC_PULSES_C2_1C_2C_4C_6C__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170607__PRECHARGE__-10degC.mat": {
+      "mtime": 1768386476.2077992,
+      "size": 3592,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170607__PRECHARGE__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170608__CHARGE_1C_1A__-10degC.mat": {
+      "mtime": 1768386477.8202047,
+      "size": 7388,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170608__CHARGE_1C_1A__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_1__-10degC.mat": {
+      "mtime": 1768386479.8992486,
+      "size": 6474,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_1__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_2A__-10degC.mat": {
+      "mtime": 1768386478.2589607,
+      "size": 6821,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_2A__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_2__-10degC.mat": {
+      "mtime": 1768386481.6866086,
+      "size": 6401,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__CHARGE_1C_2__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__DRIVE_CYCLE_CYCLE1__-10degC.mat": {
+      "mtime": 1768386479.4221067,
+      "size": 1279314,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__DRIVE_CYCLE_CYCLE1__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__DRIVE_CYCLE_CYCLE2__-10degC.mat": {
+      "mtime": 1768386481.2731285,
+      "size": 1275234,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__DRIVE_CYCLE_CYCLE2__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_1__-10degC.mat": {
+      "mtime": 1768386478.7359233,
+      "size": 1938,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_1__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_2__-10degC.mat": {
+      "mtime": 1768386480.3864608,
+      "size": 1995,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_2__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_3__-10degC.mat": {
+      "mtime": 1768386482.2115645,
+      "size": 1939,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170610__PAUSE_3__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170611__CHARGE_1C_3__-10degC.mat": {
+      "mtime": 1768386483.4556632,
+      "size": 6552,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170611__CHARGE_1C_3__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170611__DRIVE_CYCLE_CYCLE3__-10degC.mat": {
+      "mtime": 1768386482.985456,
+      "size": 1215626,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170611__DRIVE_CYCLE_CYCLE3__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170611__DRIVE_CYCLE_CYCLE4__-10degC.mat": {
+      "mtime": 1768386484.671089,
+      "size": 1306776,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170611__DRIVE_CYCLE_CYCLE4__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170611__PAUSE_4__-10degC.mat": {
+      "mtime": 1768386483.9000585,
+      "size": 2009,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170611__PAUSE_4__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170614__CHARGE_1C_8__-10degC.mat": {
+      "mtime": 1768386485.5988276,
+      "size": 5746,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170614__CHARGE_1C_8__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170614__CHARGE_1C_9__-10degC.mat": {
+      "mtime": 1768386487.2070825,
+      "size": 7381,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170614__CHARGE_1C_9__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170614__DRIVE_CYCLE_NN__-10degC.mat": {
+      "mtime": 1768386486.7802486,
+      "size": 1281733,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170614__DRIVE_CYCLE_NN__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170614__PAUSE_9__-10degC.mat": {
+      "mtime": 1768386486.0315745,
+      "size": 1936,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170614__PAUSE_9__-10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170615__HPPC_DISCHARGE_BETWEEN_PULSES__-20degC.mat": {
+      "mtime": 1768386488.2963705,
+      "size": 25944,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170615__HPPC_DISCHARGE_BETWEEN_PULSES__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170615__HPPC_PULSES_C2_1C_2C_4C_6C__-20degC.mat": {
+      "mtime": 1768386487.8404007,
+      "size": 508543,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170615__HPPC_PULSES_C2_1C_2C_4C_6C__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__CHARGE_1C_2A__-20degC.mat": {
+      "mtime": 1768386492.9505773,
+      "size": 5081,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__CHARGE_1C_2A__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN__-20degC.mat": {
+      "mtime": 1768386492.526722,
+      "size": 6243523,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_HWFET__-20degC.mat": {
+      "mtime": 1768386491.35805,
+      "size": 1232809,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_HWFET__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_LA92__-20degC.mat": {
+      "mtime": 1768386489.793257,
+      "size": 1505859,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_LA92__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_NN__-20degC.mat": {
+      "mtime": 1768386489.0016146,
+      "size": 1132531,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_NN__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_UDDS__-20degC.mat": {
+      "mtime": 1768386490.5632129,
+      "size": 2289265,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170623__DRIVE_CYCLE_UDDS__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_1__-20degC.mat": {
+      "mtime": 1768386494.622929,
+      "size": 7924,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_1__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_2__-20degC.mat": {
+      "mtime": 1768386496.6463947,
+      "size": 7879,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_2__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_3__-20degC.mat": {
+      "mtime": 1768386498.313821,
+      "size": 7964,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__CHARGE_1C_3__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE1__-20degC.mat": {
+      "mtime": 1768386494.1941016,
+      "size": 1343593,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE1__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE2__-20degC.mat": {
+      "mtime": 1768386496.1032445,
+      "size": 1342100,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE2__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE3__-20degC.mat": {
+      "mtime": 1768386497.7882347,
+      "size": 1332724,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__DRIVE_CYCLE_CYCLE3__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_1__-20degC.mat": {
+      "mtime": 1768386493.3904963,
+      "size": 1979,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_1__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_2__-20degC.mat": {
+      "mtime": 1768386495.1485932,
+      "size": 1997,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_2__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_3__-20degC.mat": {
+      "mtime": 1768386497.098624,
+      "size": 2063,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170624__PAUSE_3__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__CHARGE_1C_4__-20degC.mat": {
+      "mtime": 1768386500.0353756,
+      "size": 7931,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__CHARGE_1C_4__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__CHARGE_1C_5__-20degC.mat": {
+      "mtime": 1768386501.6949325,
+      "size": 7800,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__CHARGE_1C_5__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__DRIVE_CYCLE_CYCLE4__-20degC.mat": {
+      "mtime": 1768386499.5036004,
+      "size": 1338446,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__DRIVE_CYCLE_CYCLE4__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__DRIVE_CYCLE_US06__-20degC.mat": {
+      "mtime": 1768386501.160657,
+      "size": 754606,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__DRIVE_CYCLE_US06__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__PAUSE_4__-20degC.mat": {
+      "mtime": 1768386498.7421184,
+      "size": 2013,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__PAUSE_4__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170625__PAUSE_5__-20degC.mat": {
+      "mtime": 1768386500.4655004,
+      "size": 2032,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170625__PAUSE_5__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__CHARGE_1C_1__-20degC.mat": {
+      "mtime": 1768386505.082261,
+      "size": 5579,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__CHARGE_1C_1__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN_TRISE__-20degC.mat": {
+      "mtime": 1768386502.8872998,
+      "size": 8038773,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__DRIVE_CYCLE_CYCLE1_TRISE__-20degC.mat": {
+      "mtime": 1768386504.646281,
+      "size": 1737478,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__DRIVE_CYCLE_CYCLE1_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__PAUSE_1__-20degC.mat": {
+      "mtime": 1768386503.845689,
+      "size": 2069,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__PAUSE_1__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__PAUSE_2__-20degC.mat": {
+      "mtime": 1768386505.591261,
+      "size": 2041,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__PAUSE_2__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170630__PRECHARGE__-20degC.mat": {
+      "mtime": 1768386503.368717,
+      "size": 1274,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170630__PRECHARGE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_2__-20degC.mat": {
+      "mtime": 1768386506.8939955,
+      "size": 5763,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_2__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_3__-20degC.mat": {
+      "mtime": 1768386508.6067033,
+      "size": 6120,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_3__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_4__-20degC.mat": {
+      "mtime": 1768386510.2454505,
+      "size": 5775,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_4__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_5__-20degC.mat": {
+      "mtime": 1768386511.97639,
+      "size": 7134,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__CHARGE_1C_5__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE2_TRISE__-20degC.mat": {
+      "mtime": 1768386506.4298866,
+      "size": 1742278,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE2_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE3_TRISE__-20degC.mat": {
+      "mtime": 1768386508.1755705,
+      "size": 1538072,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE3_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE4_TRISE__-20degC.mat": {
+      "mtime": 1768386509.8111749,
+      "size": 1890358,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_CYCLE4_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_US06_TRISE__-20degC.mat": {
+      "mtime": 1768386511.4385648,
+      "size": 1001756,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__DRIVE_CYCLE_US06_TRISE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_3__-20degC.mat": {
+      "mtime": 1768386507.3871226,
+      "size": 2061,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_3__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_4__-20degC.mat": {
+      "mtime": 1768386509.039618,
+      "size": 2008,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_4__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_5__-20degC.mat": {
+      "mtime": 1768386510.6920345,
+      "size": 2078,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170701__PAUSE_5__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170704__DRIVE_CYCLE_CYCLE1TO4_TRISE_PAUSE__-20degC.mat": {
+      "mtime": 1768386513.1905227,
+      "size": 8304288,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170704__DRIVE_CYCLE_CYCLE1TO4_TRISE_PAUSE__-20degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__CHARGE_1C_1__10degC.mat": {
+      "mtime": 1768386517.4949706,
+      "size": 5355,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__CHARGE_1C_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN_TRISE__10degC.mat": {
+      "mtime": 1768386515.2383173,
+      "size": 12778361,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__DRIVE_CYCLE_COMBINED_HWFET_UDDS_LA92_NN_TRISE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__DRIVE_CYCLE_CYCLE1_TRISE__10degC.mat": {
+      "mtime": 1768386517.0068944,
+      "size": 2604064,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__DRIVE_CYCLE_CYCLE1_TRISE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__PAUSE_1__10degC.mat": {
+      "mtime": 1768386516.121885,
+      "size": 1911,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__PAUSE_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__PAUSE_2__10degC.mat": {
+      "mtime": 1768386517.9864314,
+      "size": 1977,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__PAUSE_2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170709__PRECHARGE__10degC.mat": {
+      "mtime": 1768386515.699118,
+      "size": 1544,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170709__PRECHARGE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_2__10degC.mat": {
+      "mtime": 1768386519.3291302,
+      "size": 5455,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_3__10degC.mat": {
+      "mtime": 1768386521.029407,
+      "size": 5460,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_4__10degC.mat": {
+      "mtime": 1768386522.8494773,
+      "size": 5536,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_4__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_5__10degC.mat": {
+      "mtime": 1768386523.6428263,
+      "size": 5598,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__CHARGE_1C_5__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE2_TRISE__10degC.mat": {
+      "mtime": 1768386518.918866,
+      "size": 2632903,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE2_TRISE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE3_TRISE__10degC.mat": {
+      "mtime": 1768386520.6182218,
+      "size": 2608329,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE3_TRISE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE4_TRISE__10degC.mat": {
+      "mtime": 1768386522.3761137,
+      "size": 2563778,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__DRIVE_CYCLE_CYCLE4_TRISE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_3__10degC.mat": {
+      "mtime": 1768386519.728165,
+      "size": 1998,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_4__10degC.mat": {
+      "mtime": 1768386521.446311,
+      "size": 1992,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_4__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_5__10degC.mat": {
+      "mtime": 1768386523.2284124,
+      "size": 1988,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170710__PAUSE_5__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170719__DRIVE_CYCLE_CYCLE1TO4_TRISE_PAUSE__10degC.mat": {
+      "mtime": 1768386525.6786678,
+      "size": 17350823,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170719__DRIVE_CYCLE_CYCLE1TO4_TRISE_PAUSE__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170722__CHARGE_1C_1__10degC.mat": {
+      "mtime": 1768386526.524011,
+      "size": 1463,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170722__CHARGE_1C_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170722__CHARGE_1C_2__10degC.mat": {
+      "mtime": 1768386527.836362,
+      "size": 5383,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170722__CHARGE_1C_2__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170722__DISCHARGE_1C_1__10degC.mat": {
+      "mtime": 1768386526.9719656,
+      "size": 13373,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170722__DISCHARGE_1C_1__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170723__CHARGE_1C_REPEAT__10degC.mat": {
+      "mtime": 1768386529.386034,
+      "size": 42874,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170723__CHARGE_1C_REPEAT__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170723__DISCHARGE_1C_REPEAT__10degC.mat": {
+      "mtime": 1768386528.3791802,
+      "size": 113334,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170723__DISCHARGE_1C_REPEAT__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170723__PAUSE_REPEAT__10degC.mat": {
+      "mtime": 1768386528.9071887,
+      "size": 723,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170723__PAUSE_REPEAT__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170724__CHARGE_1C_3__10degC.mat": {
+      "mtime": 1768386530.7227027,
+      "size": 5575,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170724__CHARGE_1C_3__10degC.bdf.parquet"
+    },
+    "UW__panasonic-ncr18650pf-201707-wykht8__20170724__DISCHARGE_1C_2__10degC.mat": {
+      "mtime": 1768386529.8196173,
+      "size": 13046,
+      "output": "data/UW__panasonic-ncr18650pf-201707-wykht8__20170724__DISCHARGE_1C_2__10degC.bdf.parquet"
+    }
+  },
+  "updated_at": "2026-01-14T12:03:15.537734+00:00"
+}

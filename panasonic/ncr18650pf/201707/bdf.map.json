@@ -1,0 +1,22 @@
+{
+  "variables": {
+    "Test Time / s": "Time",
+    "Voltage / V": "Voltage",
+    "Current / A": "Current",
+    "Net Capacity / Ah": "Ah",
+    "Net Energy / Wh": "Wh", 
+    "Power / W": "Power",
+    "Surface Temperature T1 / degC": "Battery_Temp_degC",
+    "Ambient Temperature / degC": "Chamber_Temp_degC",
+    "Unix Time / s": "TimeStamp"
+  },
+  "units": {
+    "Unix Time / s": "MM/DD/YYYY HH:MM:SS AM"
+  },
+  "datetime": {
+    "source": "TimeStamp",
+    "format": "MM/DD/YYYY HH:MM:SS AM",
+    "timezone": "UTC"
+  },
+  "data_path": "meas"
+}

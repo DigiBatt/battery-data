@@ -1,0 +1,139 @@
+{
+  "@context": [
+    "https://w3id.org/emmo/domain/battery/context",
+    {
+      "schema": "https://schema.org/",
+      "csvw": "http://www.w3.org/ns/csvw#",
+      "bdf": "https://w3id.org/bdf/",
+      "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+    }
+  ],
+  "@type": [
+    "schema:Product",
+    "Battery"
+  ],
+  "@id": "https://w3id.org/digibatt/battery-data/samsung/inr2170030t/2022/c1202",
+  "schema:identifier": [
+    "C1202",
+    "INR21/700"
+  ],
+  "schema:name": "samsung-inr2170030t-2022-c1202",
+  "schema:model": "INR2170030T",
+  "schema:manufacturer": {
+    "@type": "schema:Organization",
+    "schema:name": "Samsung"
+  },
+  "schema:category": "li-ion",
+  "schema:additionalProperty": [
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "IEC code",
+      "schema:propertyID": "bdf:iec_code",
+      "schema:value": "INR21/700"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Chemistry",
+      "schema:propertyID": "bdf:chemistry",
+      "schema:value": "li-ion"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Form factor",
+      "schema:propertyID": "bdf:form_factor",
+      "schema:value": "cylindrical"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Nominal voltage",
+      "schema:propertyID": "bdf:nominal_voltage_v",
+      "schema:value": 3.6,
+      "schema:unitText": "V"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Rated capacity",
+      "schema:propertyID": "bdf:rated_capacity_ah",
+      "schema:value": 3.0,
+      "schema:unitText": "Ah"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Rated energy",
+      "schema:propertyID": "bdf:rated_energy_wh",
+      "schema:value": 10.8,
+      "schema:unitText": "Wh"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Mass",
+      "schema:propertyID": "bdf:mass_g",
+      "schema:value": 69.0,
+      "schema:unitText": "g"
+    },
+    {
+      "@type": "schema:PropertyValue",
+      "schema:name": "Volume",
+      "schema:propertyID": "bdf:volume_l",
+      "schema:value": 0.024,
+      "schema:unitText": "L"
+    }
+  ],
+  "hasProperty": [
+    {
+      "@type": "NominalVoltage",
+      "rdfs:label": "nominal voltage",
+      "hasNumberValue": 3.6,
+      "hasMeasurementUnit": "emmo:Volt"
+    },
+    {
+      "@type": "RatedCapacity",
+      "rdfs:label": "rated capacity",
+      "hasNumberValue": 3.0,
+      "hasMeasurementUnit": "emmo:AmpereHour"
+    },
+    {
+      "@type": "RatedEnergy",
+      "rdfs:label": "rated energy",
+      "hasNumberValue": 10.8,
+      "hasMeasurementUnit": "emmo:WattHour"
+    },
+    {
+      "@type": "Mass",
+      "rdfs:label": "mass",
+      "hasNumberValue": 69.0,
+      "hasMeasurementUnit": "emmo:Gram"
+    },
+    {
+      "@type": "Volume",
+      "rdfs:label": "volume",
+      "hasNumberValue": 0.024,
+      "hasMeasurementUnit": "emmo:Litre"
+    }
+  ],
+  "hasPositiveElectrode": {
+    "@type": "Electrode",
+    "rdfs:label": "positive electrode",
+    "hasActiveMaterial": [
+      {
+        "@type": "LithiumNickelManganeseCobaltOxide",
+        "rdfs:label": "LithiumNickelManganeseCobaltOxide"
+      }
+    ]
+  },
+  "hasNegativeElectrode": {
+    "@type": "Electrode",
+    "rdfs:label": "negative electrode",
+    "hasActiveMaterial": [
+      {
+        "@type": "Graphite",
+        "rdfs:label": "Graphite"
+      }
+    ]
+  },
+  "schema:subjectOf": [
+    {
+      "@id": "https://github.com/digibatt/battery-data/samsung/inr2170030t/2022/data/UniversityofWindsor__samsung-inr2170030t-2022-c1202__2022__C30__25degC.bdf.parquet#dataset"
+    }
+  ]
+}

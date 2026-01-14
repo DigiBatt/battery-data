@@ -3,3 +3,7 @@ An experimental repository to make battery data available in interoperable, sema
 
 ## References
 Manuel Ank et al 2023 J. Electrochem. Soc. 170 120536, doi: 10.1149/1945-7111/ad14d0
+
+Phillip Kollmeyer (2018) Panasonic 18650PF Li-ion Battery Data, Mendeley Data, V1, doi: 10.17632/wykht8y7tg.1
+
+Sundaresan, Sneha; Devabattini, Bharath C.; Kumar, Pradeep; Pattipati, Krishna; Balasingam, Balakumar (2022), “Dataset for Tabular OCV modeling”, Mendeley Data, V1, doi: 10.17632/m9w7grpjc7.1
